@@ -76,8 +76,11 @@ const submitHandler = async (e) => {
                     <Rating value={product.rating} text={`${product.numReviews} reviews`} />
                 </ListGroup.Item>
                 <ListGroup.Item>
-                    Price: &{product.price}
+                    Price: ${product.price}
                 </ListGroup.Item>
+                <ListGroup.Item>
+                   {product.description}
+                   </ListGroup.Item>
 
         </ListGroup>
         </Col>
