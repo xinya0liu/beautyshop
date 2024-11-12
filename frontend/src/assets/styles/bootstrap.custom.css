@@ -134,9 +134,9 @@
 }
 
 [data-bs-theme='dark'] {
-  --bs-body-color: #7b8a8b;
+  --bs-body-color: #bf6b96;
   --bs-body-color-rgb: 123, 138, 139;
-  --bs-body-bg: #7b8a8b;
+  --bs-body-bg: #d983e2;
   --bs-body-bg-rgb: 123, 138, 139;
   --bs-emphasis-color: #f4f4f4;
   --bs-emphasis-color-rgb: 244, 244, 244;
